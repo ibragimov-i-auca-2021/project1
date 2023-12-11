@@ -47,6 +47,8 @@
 <body>
     <div class="container">
         <h1>Contact Us</h1>
+        <p>My github</p>
+        <p>https://github.com/ibragimov-i-auca-2021/project1</p>
         <p>Feel free to reach out to us via email:</p>
         <a href="mailto:ibragimov_i@auca.kg" class="contact-button">Email Us</a>
     </div>
